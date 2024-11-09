@@ -56,7 +56,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 Name: SETHUKKARASI C
 Register Number: 212223230201
 ```
-<br>
 
 ```
 import numpy as np
@@ -82,7 +81,6 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var)
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
 ```
-<br>
 
 # Output : 
 <br>
